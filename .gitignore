@@ -1,5 +1,6 @@
 djangogirls
 *.pyc
+*.pyo
 .*swp
 mysite/local_settings.py
 staticfiles
