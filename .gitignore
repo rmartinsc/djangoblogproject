@@ -1,0 +1,6 @@
+djangogirls
+*.pyc
+.*swp
+mysite/local_settings.py
+staticfiles
+db.sqlite3
