@@ -101,3 +101,5 @@ try:
     from .local_settings import *
 except ImportError:
     pass
+
+LOGIN_REDIRECT_URL = '/'
